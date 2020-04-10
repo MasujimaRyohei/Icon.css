@@ -3,7 +3,7 @@ function mosaic() {
     output.innerHTML = 'My mosaic icon.<div class=\'mosaic\'></div>';
 }
 
-function photoOriginal() {
+function photoOrigin() {
     output.innerHTML = 'My original photo icon.<div class=\'photo-origin\'></div>';
 }
 
